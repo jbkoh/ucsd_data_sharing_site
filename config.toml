@@ -1,3 +1,12 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
-title = "My New Hugo Site"
+baseurl = "http://mesl-exp.ucsd.edu:1713"
 languageCode = "en-us"
+title = "UCSD Building Data Sharing"
+theme = "martial-paper"
+bind = "0.0.0.0"
+port = 1713
+
+[params]
+    aboutpage = "About"
+    author = "Jason Koh"
+    copyrightstatement = "TODO"
+    description = "Building data shared by UCSD"
