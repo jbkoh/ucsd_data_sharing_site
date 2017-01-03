@@ -1,13 +1,11 @@
 +++
-date = "2017-01-03T13:04:29-08:00"
-title = "UCSD Building Data Sharing"
-martialpaperlastmod = "YYYYMMDD"
+date = "2000-01-01T12:00:00+02:00"
+draft = false
+martialpaperlastmod = "20160604"
 streamtitle = ""
-timeless = "false"
-suppress = "false"
-draft = true
+timeless = "indexintro"
+title = "indexintro"
 
 +++
 
-
-"Hello World"
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
