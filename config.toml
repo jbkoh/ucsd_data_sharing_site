@@ -1,12 +1,73 @@
 baseurl = "http://mesl-exp.ucsd.edu:1713"
 languageCode = "en-us"
 title = "UCSD Building Data Sharing"
-theme = "martial-paper"
-bind = "0.0.0.0"
-port = 1713
+theme = "hugo-material-docs"
+metadataformat = "yaml"
+canonifyurls = true
+# Enable Google Analytics by entering your tracking id
+googleAnalytics = "UA-89797404-1"
 
 [params]
-    aboutpage = "About"
-    author = "Jason Koh"
-    copyrightstatement = "TODO"
-    description = "Building data shared by UCSD"
+	# General information
+	author = "Jason Koh"
+	description = "The website to share data of buildings in UCSD."
+	copyright = "TOOD"
+
+	# Repository
+	provider = ""
+    repo_url = ""
+
+	version = ""
+	logo = ""
+	favicon = ""
+
+	permalink = "#"
+
+	# Custom assets
+	custom_css = []
+	custom_js  = []
+
+	# Syntax highlighting theme
+	highlight_css  = ""
+
+	[params.palette]
+    	primary = "red"
+    	accent  = "teal"
+
+    [params.font]
+    	text = "Ubuntu"
+    	code = "Ubuntu Mono"
+
+
+[social]
+	twitter = ""
+	github  = ""
+	email   = "jbkoh@eng.ucsd.edu"
+
+
+[[menu.main]]
+	name   = "About"
+	url    = "/"
+	weight = 0
+
+[[menu.main]]
+	name   = "Building Metadata"
+	url    = "building_metadata/"
+	weight = 10
+
+[[menu.main]]
+	name   = "Building Timeseries Data"
+	url    = "building_data/"
+	weight = 20
+
+[[menu.main]]
+	name   = "License"
+	url    = "license/"
+	weight = 40
+
+
+[blackfriday]
+	smartypants	= true
+	fractions = true
+	smartDashes = true
+	plainIDAnchors = true
