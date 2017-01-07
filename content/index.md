@@ -5,15 +5,8 @@ type: index
 weight: 0
 ---
 
-## Who are we?
-
-We are researchers from Microelectronic Embedded Systems Laboratory ([MESL](http://mesl.ucsd.edu/)). MESL is a leading research group in building automation and IoT. We have been doing research on analyzing building data and building automation. We collect sensors' data and metadata in buildings for both management and research in a data storage, [BuildingDepot](http://buildingdepot.org/).
-
-### Contact
-1. Jason Koh: https://jbkoh.github.io
-2. Bharathan Balaji: http://www.synergylabs.org/bharath/
-3. Rajesh Gupta: http://mesl.ucsd.edu/gupta/
-4. Yuvraj Agarwal: http://www.synergylabs.org/yuvraj/
+## What we share?
+[Timeseries Data](building_data/) and [Metadata](building_metadata). TODO
 
 ## Why we share?
 
@@ -27,11 +20,19 @@ We are currently expanding this project to cover more metadata types such as loc
 
 We would like the research community to take up the challenge of standardizing sensor ontology in buildings, and hence we release the metadata for sensors across all the networked buildings on our campus. The dataset encompasses more than 55 buildings and over 180,000 points. Many challenges remain in sensor ontology mapping -- identification of sensor location, equipment the sensor belongs to, the relationship between sensors within an equipment and across equipment. This dataset allows the research community to explore solutions to these problems. Of course, we welcome to use our dataset for other research topics too.
 
-## What we share?
-[Timeseries Data](building_data/) and [Metadata](building_metadata). TODO
-
 ## License
 TOOD
+
+## Who are we?
+
+We are researchers from Microelectronic Embedded Systems Laboratory ([MESL](http://mesl.ucsd.edu/)). MESL is a leading research group in building automation and IoT. We have been doing research on analyzing building data and building automation. We collect sensors' data and metadata in buildings for both management and research in a data storage, [BuildingDepot](http://buildingdepot.org/).
+
+### Contact
+1. Jason Koh: https://jbkoh.github.io
+2. Bharathan Balaji: http://www.synergylabs.org/bharath/
+3. Rajesh Gupta: http://mesl.ucsd.edu/gupta/
+4. Yuvraj Agarwal: http://www.synergylabs.org/yuvraj/
+
 
 ## References
 Please consider citing the following papers.

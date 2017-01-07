@@ -1,4 +1,4 @@
-baseurl = "http://mesl-exp.ucsd.edu:1713"
+baseurl = "http://buildingdata.ucsd.edu"
 languageCode = "en-us"
 title = "UCSD Building Data Sharing"
 theme = "hugo-material-docs"
@@ -11,7 +11,7 @@ googleAnalytics = "UA-89797404-1"
 	# General information
 	author = "Jason Koh"
 	description = "The website to share data of buildings in UCSD."
-	copyright = "TOOD"
+	copyright = "TODO"
 
 	# Repository
 	provider = ""
