@@ -36,9 +36,9 @@ We are researchers from Microelectronic Embedded Systems Laboratory ([MESL](http
 
 ## References
 
-1. "Zodiac: Organizing Large Deployment of Sensors to Create Reusable Applications for Buildings", Bharathan Balaji, Chetan Verma, Balakrishnan Narayanaswamy and Yuvraj Agarwal, BuildSys, 2015 ([paper](http://dl.acm.org/citation.cfm?id=2821674))
-2. "HVACMeter: Apportionment of HVAC Power to Thermal Zones and Air Handler Units", Jason Koh, Bharathan Balaji, Rajesh Gupta and Yuvraj Agarwal, arXiv preprint, 2015 ([paper](https://arxiv.org/abs/1509.05421))
-3. "Brick: Towards a Unified Metadata Schema For Buildings", Bharathan Balaji, Arka Bhattacharya, Gabriel Fierro, Jingkun Gao, Joshua Gluck, Dezhi Hong, Aslak Johansen, Jason Koh, Joern Ploennigs, Yuvraj Agarwal, Mario Berges, David Culler, Rajesh Gupta, Mikkel Baun Kjærgaard, Mani Srivastava, Kamin Whitehouse, BuildSys, 2016 ([paper](http://dl.acm.org/citation.cfm?id=2993577))
+1. "**Zodiac**: Organizing Large Deployment of Sensors to Create Reusable Applications for Buildings", Bharathan Balaji, Chetan Verma, Balakrishnan Narayanaswamy and Yuvraj Agarwal, BuildSys, 2015 ([paper](http://dl.acm.org/citation.cfm?id=2821674))
+2. "**HVACMeter**: Apportionment of HVAC Power to Thermal Zones and Air Handler Units", Jason Koh, Bharathan Balaji, Rajesh Gupta and Yuvraj Agarwal, arXiv preprint, 2015 ([paper](https://arxiv.org/abs/1509.05421))
+3. "**Brick**: Towards a Unified Metadata Schema For Buildings", Bharathan Balaji, Arka Bhattacharya, Gabriel Fierro, Jingkun Gao, Joshua Gluck, Dezhi Hong, Aslak Johansen, Jason Koh, Joern Ploennigs, Yuvraj Agarwal, Mario Berges, David Culler, Rajesh Gupta, Mikkel Baun Kjærgaard, Mani Srivastava, Kamin Whitehouse, BuildSys, 2016 ([paper](http://dl.acm.org/citation.cfm?id=2993577))
 
 ## Othes materials
 1. Brick: It is a unified schema for buildings built together with multiple groups. [Brick](http://brickschema.org)
