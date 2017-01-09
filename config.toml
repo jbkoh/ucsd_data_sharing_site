@@ -11,7 +11,7 @@ googleAnalytics = "UA-89797404-1"
 	# General information
 	author = "Jason Koh"
 	description = "The website to share data of buildings in UCSD."
-	copyright = "TODO"
+	copyright = "Jason Koh, Microelectronic Embedded Systems Laboratory"
 
 	# Repository
 	provider = ""

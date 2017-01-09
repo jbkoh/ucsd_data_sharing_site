@@ -28,17 +28,27 @@ TOOD
 We are researchers from Microelectronic Embedded Systems Laboratory ([MESL](http://mesl.ucsd.edu/)). MESL is a leading research group in building automation and IoT. We have been doing research on analyzing building data and building automation. We collect sensors' data and metadata in buildings for both management and research in a data storage, [BuildingDepot](http://buildingdepot.org/).
 
 ### Contact
-1. Jason Koh: https://jbkoh.github.io
-2. Bharathan Balaji: http://www.synergylabs.org/bharath/
-3. Rajesh Gupta: http://mesl.ucsd.edu/gupta/
-4. Yuvraj Agarwal: http://www.synergylabs.org/yuvraj/
+* Jason Koh: https://jbkoh.github.io
+* Bharathan Balaji: http://www.synergylabs.org/bharath/
+* Rajesh Gupta: http://mesl.ucsd.edu/gupta/
+* Yuvraj Agarwal: http://www.synergylabs.org/yuvraj/
 
+### Affiliations
+* [University of California, San Diego](https://ucsd.edu/)
+* [Computer Science and Engineering Department, UCSD](https://cse.ucsd.edu)
+* [Facilities Management, MESL, Synergy](https://blink.ucsd.edu/sponsor/facilities-mgmt/)
+* [Microelectronic Embedded Systems Laboratory (MESL)](http://mesl.ucsd.edu)
+* [Systems, Networking and Energy Efficiency Lab (Synergy)](http://synergylabs.org/)
 
 ## References
 
 1. "**Zodiac**: Organizing Large Deployment of Sensors to Create Reusable Applications for Buildings", Bharathan Balaji, Chetan Verma, Balakrishnan Narayanaswamy and Yuvraj Agarwal, BuildSys, 2015 ([paper](http://dl.acm.org/citation.cfm?id=2821674))
 2. "**HVACMeter**: Apportionment of HVAC Power to Thermal Zones and Air Handler Units", Jason Koh, Bharathan Balaji, Rajesh Gupta and Yuvraj Agarwal, arXiv preprint, 2015 ([paper](https://arxiv.org/abs/1509.05421))
 3. "**Brick**: Towards a Unified Metadata Schema For Buildings", Bharathan Balaji, Arka Bhattacharya, Gabriel Fierro, Jingkun Gao, Joshua Gluck, Dezhi Hong, Aslak Johansen, Jason Koh, Joern Ploennigs, Yuvraj Agarwal, Mario Berges, David Culler, Rajesh Gupta, Mikkel Baun Kjærgaard, Mani Srivastava, Kamin Whitehouse, BuildSys, 2016 ([paper](http://dl.acm.org/citation.cfm?id=2993577))
+
+### Other References
+1. [MESL Publications](http://mesl.ucsd.edu/site/publications.html)
+2. [Synergy Publications](http://synergylabs.org/publications.html)
 
 ## Othes materials
 1. Brick: It is a unified schema for buildings built together with multiple groups. [Brick](http://brickschema.org)
