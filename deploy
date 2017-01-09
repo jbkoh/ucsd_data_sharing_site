@@ -1,3 +1,4 @@
 #!/bin/bash
+hugo
 cp -Tr public /var/www/buildingdata.ucsd.edu/html
 chown -R jbkoh:jbkoh /var/www/buildingdata.ucsd.edu/html

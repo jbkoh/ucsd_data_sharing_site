@@ -36,9 +36,9 @@ We are researchers from Microelectronic Embedded Systems Laboratory ([MESL](http
 ### Affiliations
 * [University of California, San Diego](https://ucsd.edu/)
 * [Computer Science and Engineering Department, UCSD](https://cse.ucsd.edu)
-* [Facilities Management, MESL, Synergy](https://blink.ucsd.edu/sponsor/facilities-mgmt/)
-* [Microelectronic Embedded Systems Laboratory (MESL)](http://mesl.ucsd.edu)
-* [Systems, Networking and Energy Efficiency Lab (Synergy)](http://synergylabs.org/)
+* [Facilities Management, UCSD](https://blink.ucsd.edu/sponsor/facilities-mgmt/)
+* [Microelectronic Embedded Systems Laboratory (MESL), UCSD](http://mesl.ucsd.edu)
+* [Systems, Networking and Energy Efficiency Lab (Synergy), CMU](http://synergylabs.org/)
 
 ## References
 
