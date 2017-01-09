@@ -34,7 +34,7 @@ We are researchers from Microelectronic Embedded Systems Laboratory ([MESL](http
 * Yuvraj Agarwal: http://www.synergylabs.org/yuvraj/
 
 ### Affiliations
-* [University of California, San Diego](https://ucsd.edu/)
+* [University of California, San Diego (UCSD)](https://ucsd.edu/)
 * [Computer Science and Engineering Department, UCSD](https://cse.ucsd.edu)
 * [Facilities Management, UCSD](https://blink.ucsd.edu/sponsor/facilities-mgmt/)
 * [Microelectronic Embedded Systems Laboratory (MESL), UCSD](http://mesl.ucsd.edu)
