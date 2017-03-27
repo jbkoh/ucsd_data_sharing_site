@@ -8,4 +8,4 @@ Website
 Copyright (c) 2016 Jason Koh <jbkoh@ucsd.edu><br>
 
 Data
-Copyright (c) 2016 UCSD (specified in [the copyright document](/data/others/Zodiac_Building_Dataset_Agreement.pdf))
+Copyright (c) 2016 UCSD (specified in [the copyright document](/others/Zodiac_Building_Dataset_Agreement.doc))

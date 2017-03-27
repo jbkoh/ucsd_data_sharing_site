@@ -6,7 +6,7 @@ weight: 0
 ---
 
 ## What we share?
-[Timeseries Data](building_data/) and [Metadata](building_metadata). TODO
+[Timeseries Data](building_data/) and [Metadata](building_metadata) of sensors in UCSD buildings.
 
 ## Why we share?
 
@@ -21,8 +21,8 @@ We are currently expanding this project to cover more metadata types such as loc
 We would like the research community to take up the challenge of standardizing sensor ontology in buildings, and hence we release the metadata for sensors across all the networked buildings on our campus. The dataset encompasses more than 55 buildings and over 180,000 points. Many challenges remain in sensor ontology mapping -- identification of sensor location, equipment the sensor belongs to, the relationship between sensors within an equipment and across equipment. This dataset allows the research community to explore solutions to these problems. Of course, we welcome to use our dataset for other research topics too.
 
 ## License
-Metadata are shared with BSD3 License.
-Data are shared under an agreement UCSD to protect private the data from possible malicious usage. Except that, there is no charge or limit of it. Please refer [the license docuemnt](/data/others/Zodiac_Building_Dataset_Agreement.pdf).
+* Metadata are shared with BSD3 License.
+* Data are shared under an agreement UCSD to protect private the data from possible malicious usage. Except that, there is no charge or limit of it. Please refer [the license docuemnt](/others/Zodiac_Building_Dataset_Agreement.doc).
 
 ## Who are we?
 
