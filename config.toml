@@ -1,4 +1,4 @@
-baseurl = "http://buildingdata.ucsd.edu"
+baseurl = "https://buildingdata.ucsd.edu"
 languageCode = "en-us"
 title = "UCSD Building Data Sharing"
 theme = "hugo-material-docs"
